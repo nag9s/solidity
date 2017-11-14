@@ -8,4 +8,5 @@
 * [Reading](reading.md)
 * [Q&A](qanda.md)
 * function Modifiers
+* [Debugging](debugging.md)
 
