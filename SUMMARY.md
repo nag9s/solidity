@@ -6,4 +6,5 @@
 * [Potential](potential.md)
 * [Installation](installation.md)
 * [Reading](reading.md)
+* [Q&A](qanda.md)
 
