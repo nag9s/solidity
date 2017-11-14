@@ -9,3 +9,5 @@ Using safemath for unit25 - understand the menaing of this from CrowdSale.sol
 
 Null functions is called fallback function..
 
+  --- this will be invoked at any cost ..
+
