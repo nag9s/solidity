@@ -5,3 +5,7 @@ Calling External Functions - From plural sight
 
 
 
+*   From Pranav, parametrization ..  
+
+
+
